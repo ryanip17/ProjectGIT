@@ -68,6 +68,8 @@ public class BinarySearch1 {
             bawah = tengah + 1;
       }
        
+    //test menambahkan comment
+    
       return -1;
  
    } // Akhir blok metoda mencariDenganBS
